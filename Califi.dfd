@@ -1,0 +1,101 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+acum
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+1
+4
+1
+1
+1
+4
+1
+59
+'Joven estudiante, ingrese la nota: ', i+1, ' de la clase '
+5
+1
+1
+a
+7
+0
+1
+13
+a>=0 and a<=5
+4
+1
+25
+'Ingrese una nota valida'
+6
+1
+1
+i
+3
+i-1
+13
+6
+1
+4
+acum
+6
+acum+a
+13
+10
+6
+1
+4
+prom
+6
+acum/5
+4
+1
+4
+prom
+7
+0
+1
+21
+prom>=0 and prom<=2.9
+7
+0
+1
+21
+prom>=3 and prom<=3.9
+7
+0
+1
+19
+prom>=4 and prom<=5
+13
+4
+1
+30
+'Su promedio es alto. Aprueba'
+13
+13
+4
+1
+32
+'Su promedio es basico. Aprueba'
+13
+13
+4
+1
+31
+'Su promedio es bajo. Reprueba'
+13
+1
